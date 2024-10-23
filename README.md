@@ -1,4 +1,4 @@
-# ParkinsonsDiseaseDetection
+# Parkinsons Disease Detection
 
 # Objective:
 Our project aims to build a Machine Learning model which will predict the 
